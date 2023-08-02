@@ -10,5 +10,9 @@
 
 
 Llama2的官方链接：https://ai.meta.com/llama/
+
 Llama2 部署脚本的Github链接：https://github.com/camenduru/text-generation-webui-colab
+
 7B聊天版的Colab地址：https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-2-7b-chat.ipynb
+
+最推荐地是 colab
