@@ -16,3 +16,6 @@ Llama2 部署脚本的Github链接：https://github.com/camenduru/text-generatio
 7B聊天版的Colab地址：https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-2-7b-chat.ipynb
 
 最推荐地是 colab
+
+ 接下来 进行  Llama 2 本地部署
+ 
